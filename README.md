@@ -1,6 +1,6 @@
 # Repositório do Desafio de projeto do Git/Github da Dio
 
-## Desafio de projeto de git e github
+## Desafio de projeto de git e github da Dio
 
 ### Quem Sou
 
