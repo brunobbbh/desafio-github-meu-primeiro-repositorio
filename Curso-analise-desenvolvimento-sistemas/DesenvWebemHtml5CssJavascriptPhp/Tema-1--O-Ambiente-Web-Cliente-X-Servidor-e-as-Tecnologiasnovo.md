@@ -38,9 +38,9 @@
     
   # Módulo 1
   
-    ## Ambiente Cliente X Servidor
+    ##Ambiente Cliente X Servidor
     
-    ### Um pouco de história 
+    ###Um pouco de história 
       
       O modelo Cliente X Servidor foi criado pela Xerox PARC nos anos 1970, tendo como principal premissa 
       a separação entre dados e recursos de processamento, ao contrário do modelo predominante á época - 
@@ -48,7 +48,7 @@
       ficavam a cargo dos computadores de grande porte: Mainframe.
       
       
-    ### Como é composto o modelo Cliente X Servidor
+    ###Como é composto o modelo Cliente X Servidor
     
       O ponto de partida para entendermos a arquitetura do modelo Cliente X Servidor é tomarmos como exemplo 
       a rede interna de computadores de uma empresa, em que temos máquinas exercendo a função de servidores - 
@@ -56,20 +56,20 @@
       a função de clientes - consumindo os recursos fornecidos pelos servidores. Essa arquitetura pode ser vista 
       na figura 1.
       
-    ## Aplicações no modelo Cliente X Servidor 
+    ##Aplicações no modelo Cliente X Servidor 
     
       O modelo Cliente X Servidor tornou possível o desenvolvimento de aplicações que fizessem uso de sua arquitetura
       distribuída. Tais aplicações foram desenvolvidas tendo como base o conceito de desenvolvimento em camadas. Logo 
       surgiram os modelos de 2, 3 e 4 (ou N) Camadas.
       
-    ## Modelo de 2 Camadas
+    ##Modelo de 2 Camadas
     
       Neste modelo, temos as camadas Cliente X Servidor, sendo função da primeria tratar a Lógica dp negócio e fazer a 
       interface com o Usuário, enquanto a segunda é responsavel por tratar os dados - normalmente fazendo uso de sistemas 
       Gerenciadores de Banco de Dados (SGBD). São exemplos deste modelo as aplicações Desktop instaladas em cada computador
       cliente que se comunicam com um servidor na mesma rede.
       
-    ## Modelo 3 Camadas   
+    ##Modelo 3 Camadas   
      
      
     
