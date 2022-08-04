@@ -1,0 +1,34 @@
+# Prática com display: flex
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundamentos - Display flex</title>
+    <style>
+        .flex {
+            max-width: auto;
+            padding: 10px;
+            border: 2px solid black;
+            display: flex;
+        }
+​        .item {
+​            background-color: aqua;
+​            margin: auto;
+​        }
+​    </style>
+</head>
+<body>
+
+    <div class="flex">
+        <div class="item">Quem Sou</div>
+        <div class="item">Cursos</div>
+        <div class="item">Experiências Profssionais</div>
+        <div class="item">Projetos</div>
+​    </div>
+</body>
+</html>
